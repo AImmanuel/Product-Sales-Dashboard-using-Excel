@@ -2,6 +2,7 @@
 
 ## Project Overview
 This Excel dashboard project was crafted to dissect data from a fictional coffee company. The initial data is segregated into three worksheets: Orders, Customers, and Products, each holding key insights into the company's operations.
+![Dashboard png](https://github.com/AImmanuel/Product-Sales-Dashboard-using-Excel/assets/141285116/1577412e-40cb-4ca9-b2e7-e2ec304bac52)
 
 ## Features
 - **Data Analysis:** Gain insights into customer behavior, product profitability, and order trends.
@@ -65,5 +66,4 @@ Refer to the visualizations and data to make informed decisions.
 - Gain insights into product preferences and profitability.
 - Use filters to customize your analysis and uncover actionable insights.
 
-## Final Dashboard
-![Dashboard png](https://github.com/AImmanuel/Product-Sales-Dashboard-using-Excel/assets/141285116/1577412e-40cb-4ca9-b2e7-e2ec304bac52)
+
